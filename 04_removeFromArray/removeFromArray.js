@@ -5,7 +5,8 @@ const removeFromArray = function(myArray, ...num) {
         return myArray
     }
     
-};
+}
+;
 
 // Do not edit below this line
 module.exports = removeFromArray;
